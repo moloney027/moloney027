@@ -6,7 +6,8 @@
 ### :woman_technologist: About Me :
 
 I am a Java Developer from Kazakhstan.
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliyarogova/)
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliyarogova/)
 
 ---
 
