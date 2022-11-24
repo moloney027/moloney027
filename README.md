@@ -5,17 +5,15 @@
 
 ### :woman_technologist: About Me :
 
-I am a Java Developer from Kazakhstan.
+I am a Java Developer from Kazakhstan
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliyarogova/)
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliyarogova/)
 
 ---
 
-### :fire: My Stats :
+### :bar_chart: My Stats :
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moloney027&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moloney027&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **moloney027/moloney027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
